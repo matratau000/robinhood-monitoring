@@ -1,0 +1,8 @@
+trades.db
+.env
+*/__pycache__
+
+crypto_trades.db
+
+*.pyc
+
